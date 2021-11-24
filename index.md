@@ -6,8 +6,10 @@ PeopleDAO is the legacy of [ConstitutionDAO](https://www.constitutiondao.com/). 
 
 ## Get $People
 
-[Twitter](https://twitter.com/peopleDAO_org) [Discord](http://discord.gg/eBhZ5X5g) [Telegram](https://t.me/PeopleDaoGlobal)
+[Twitter](https://twitter.com/peopleDAO_org) |  [Discord](http://discord.gg/eBhZ5X5g) |  [Telegram](https://t.me/PeopleDaoGlobal)
 
-[$PEOPLE TOKEN](https://etherscan.io/token/0x7a58c0be72be218b41c608b7fe7c5bb630736c71) [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x7a58c0be72be218b41c608b7fe7c5bb630736c71)
+[$PEOPLE TOKEN](https://etherscan.io/token/0x7a58c0be72be218b41c608b7fe7c5bb630736c71) or buy $PEOPLE on [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x7a58c0be72be218b41c608b7fe7c5bb630736c71)
 
-### [CRYPTO MANIFESTO](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html)
+## We lost in bidding, but we will win in the end
+
+[CRYPTO MANIFESTO](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html)
