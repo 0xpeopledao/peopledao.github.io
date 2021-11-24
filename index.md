@@ -8,8 +8,5 @@ But [$people](https://etherscan.io/token/0x7a58c0be72be218b41c608b7fe7c5bb630736
 
 #WETHEPEOPLE
 
-### WHO WE ARE
-We are the people who believe the freedom and want to unit in the internet by $people token.
-
 ### [CRYPTO MANIFESTO](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html)
 $PEOPLE would be the first "nation" build on the internet regardless the location you are.
