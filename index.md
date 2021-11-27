@@ -9,7 +9,7 @@ $PEOPLE coin can be [refunded](https://juicebox.money/#/p/constitutiondao) with 
 
 * [Twitter](https://twitter.com/peopleDAO_org) [Twitter](https://twitter.com/The_PeopleDAO)
 * [Discord](http://discord.gg/eBhZ5X5g)
-* [Telegram](https://t.me/PeopleDaoGlobal)
+* [Telegram](https://t.me/peopledao_unofficial) [Telegram](https://t.me/PeopleDaoGlobal)
 * Add more social link by making issue or DM twitter @peopleDAO_org.
 
 ## We lost in bidding, but we will win in the end!
